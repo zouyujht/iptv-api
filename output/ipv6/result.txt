@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-22 00:37:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-22 08:56:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1802,7 +1802,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
-汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 沐川综合,http://iptv.666230.xyz/iptv/sxg.php/mcxw_2000
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
@@ -1885,7 +1884,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 厦门卫视,http://goo.bkpcp.top/mg/xmws
 厦门卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
@@ -3066,6 +3064,7 @@ CN卡通,https://t.freetv.fun/live/cnqia-tong-1.php
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 蜡笔小新,https://live.ottiptv.cc/huya/11352970
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
