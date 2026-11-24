@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zouyujht/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-24 14:09:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-25 04:49:13
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3545,8 +3545,6 @@ http://live.iwcmt.cn:90/live/zhxw.m3u8
 http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 tvg-name="汶川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汶川新闻综合.png" group-title="☘️四川频道",汶川新闻综合
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
-#EXTINF:-1 tvg-name="汶川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汶川新闻综合.png" group-title="☘️四川频道",汶川新闻综合
-http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 #EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/沐川综合.png" group-title="☘️四川频道",沐川综合
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/沐川综合.png" group-title="☘️四川频道",沐川综合
@@ -3703,6 +3701,8 @@ https://live.zzyxxw.com:2443/live/xwzh.m3u8
 http://live.zzyxxw.com:85/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
@@ -4675,6 +4675,8 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/play
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 #EXTINF:-1 tvg-name="文山州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文山州新闻综合.png" group-title="☘️云南频道",文山州新闻综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 tvg-name="文山州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文山州新闻综合.png" group-title="☘️云南频道",文山州新闻综合
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 #EXTINF:-1 tvg-name="昆明公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/昆明公共.png" group-title="☘️云南频道",昆明公共
 http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 #EXTINF:-1 tvg-name="昆明科学教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/昆明科学教育.png" group-title="☘️云南频道",昆明科学教育
@@ -5984,7 +5986,7 @@ https://www.goodiptv.club/yy/22777075
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="🪁动画频道",蜡笔小新
 https://live.ottiptv.cc/huya/11352970
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="🪁动画频道",蜡笔小新
-https://live.ottiptv.cc/bilibili/30837590
+https://live.metshop.top/bilibili/30837590
 #EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
 http://luobo.bkpcp.top/yy/1382735568
 #EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
@@ -6097,10 +6099,14 @@ http://live.iill.top/huya.php?id=23865080
 https://live.ottiptv.cc/yy/28265277
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://live.ottiptv.cc/huya/23650774
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
+https://live.metshop.top/huya/23650774
 #EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/仙剑奇侠传.png" group-title="🏛经典剧场",仙剑奇侠传
 http://live.iill.top/yy.php?id=1382749903
 #EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/仙剑奇侠传.png" group-title="🏛经典剧场",仙剑奇侠传
 https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/仙剑奇侠传.png" group-title="🏛经典剧场",仙剑奇侠传
+https://live.metshop.top/yy/1382749903
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🏛经典剧场",西游记
 https://live.ottiptv.cc/huya/26355861
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🏛经典剧场",西游记
@@ -6133,6 +6139,8 @@ http://live.iill.top/yy.php?id=1354490667
 https://live.ottiptv.cc/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
+https://live.metshop.top/yy/1354490667
 #EXTINF:-1 tvg-name="济公游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/济公游记.png" group-title="🏛经典剧场",济公游记
 http://live.iill.top/yy.php?id=1355265814
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
